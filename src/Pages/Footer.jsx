@@ -24,11 +24,7 @@ const Footer = () => {
 										MUZAKIE
 									</a>
 								</li>
-								<li>
-									<a href="https://www.instagram.com/?hl=id" class="hover:underline">
-										*
-									</a>
-								</li>
+								
 							</ul>
 						</div>
 						<div className="">
