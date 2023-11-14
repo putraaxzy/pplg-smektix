@@ -214,7 +214,7 @@ const StrukturKelas = () => {
 						<div className="py-[3%]"></div>
 						<BorderStruktur Jabatan="" Nama="Paulista" Width="120px" />
 					</div>
-				</div>
+				</div>*/}
 
 				{/* Kesehatan */}
 				<div
@@ -232,7 +232,7 @@ const StrukturKelas = () => {
 							<div className="py-[3%]"></div>
 						</div>
 					</div>
-				</div>*/}
+				</div>
 			</div>
 		</div>
 	)
