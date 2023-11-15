@@ -24,7 +24,7 @@ const Rabu = () => {
 				</div>
 				<div className=" flex justify-between py-[0.50rem] w-72 px-3 opacity-60 border-b-2 border-white" data-aos="fade-up" data-aos-duration="915">
 					<div className="w-[50%] text-base  font-medium">ISTIRAHAT</div>
-					<div className="flex justify-center items-center text-sm">11:55-12:15</div>
+					<div className="flex justify-center items-center text-sm">11:55-12:25</div>
 				</div>
 			
         </>
