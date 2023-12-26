@@ -23,7 +23,7 @@ const Senin = () => {
 					<div className="flex justify-center items-center text-sm">00:00-00:00</div>
 				</div>
 				<div className="border-t-2 border-b-2 border-white flex justify-between py-[0.50rem] w-72 px-3" data-aos="fade-up" data-aos-duration="1000">
-					<div className="w-[50%] text-base font-medium">Mapel Senin</div>
+					<div className="w-[50%] text-base font-medium">Mapel Seninn</div>
 					<div className="flex justify-center items-center text-sm">00:00-00:00</div>
 				</div>
         </>
