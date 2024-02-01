@@ -20,12 +20,21 @@ const Footer = () => {
 							<h2 class="mb-4 text-sm font-semibold uppercase text-white">CREATED BY</h2>
 							<ul class="text-gray-400 dark:text-gray-400 font-medium">
 								<li class="mb-2">
-									<a href="https://www.instagram.com/muzakie624/?hl=id" class="hover:underline">
+								<a href="https://www.instagram.com/muzakie624/?hl=id" class="hover:underline">
 										MUZAKIE
 									</a>
-								</li>
-								
-							</ul>
+							</li>
+							<li class="mb-2">
+								<a href="https://www.instagram.com/onlyptraa" class="hover:underline">
+										PUTRA
+									</a>
+							</li>				
+							<li class="mb-2">
+								<a href="https://www.instagram.com/prim.m.t" class="hover:underline">
+										PRIMA
+									</a>
+							</li>		
+							</ul>						
 						</div>
 						<div className="">
 							<h2 class="mb-4 text-sm font-semibold uppercase text-white">Follow us</h2>
